@@ -165,8 +165,8 @@ Hi username!
 │   ├── helpers.h        # Helper function declarations
 │   ├── linkedlist.h     # Linked list interface
 │   └── debug.h          # Debug macros and utilities
-├── bin/                 # Compiled binaries
-├── obj/                 # Object files
+├── lib/
+|   └── icsshlib.o       # Object file
 └── Makefile            # Build configuration
 ```
 
